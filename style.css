@@ -74,7 +74,7 @@ button{
 }
 
 @media(max-width:768px){
- .loginslide{
+ .loginslide, form{
     flex-direction:column;
   }
   .loginform{
