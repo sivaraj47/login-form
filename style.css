@@ -16,11 +16,7 @@ background:url(https://images.pexels.com/photos/9434908/pexels-photo-9434908.jpe
   display:flex;
   flex-wrap:wrap;
   justify-content:center; 
-  text-align:left; 
-  width:50%;  
-}
-.loginform{
-  width:50%;   
+  text-align:left;  
 }
 .desc{
  display: flex;
@@ -31,11 +27,6 @@ background:url(https://images.pexels.com/photos/9434908/pexels-photo-9434908.jpe
   color:#fff;
   border-radius:10px;
 }
-.login{
-display:flex;
-justify-content:flex-end;
-  align-items:center;
-}
 .lbl{
       margin-bottom: -10px !important;
 }
@@ -43,7 +34,7 @@ form{
  display:flex;
   flex-direction:column;   
   background:#fff;
-  width:350px;
+  width:250px;
   padding:20px 20px;
   border-radius:5px;  
   font-size:18px;
@@ -74,7 +65,7 @@ button{
 }
 
 @media(max-width:768px){
- .loginslide, .login{
+ .loginslide{
     flex-direction:column;
   }
   .loginform{
