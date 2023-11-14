@@ -5,8 +5,7 @@ body{
   display:flex;
   justify-content:center;
   align-items:center;
-  background:#ffccdd;
-  width:100%;
+  background:#ffccdd;  
   padding:90px; 
 background:url(https://images.pexels.com/photos/9434908/pexels-photo-9434908.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
   background-repeat:no-repeat;
