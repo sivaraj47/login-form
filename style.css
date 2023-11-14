@@ -3,9 +3,9 @@ body{
 }
 .loginslide{
   display:flex;
-  justify-content:center;
+  justify-content:space-between;
   align-items:center;
-  background:#ffccdd;  
+  background:#ffccdd;
   padding:90px; 
 background:url(https://images.pexels.com/photos/9434908/pexels-photo-9434908.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
   background-repeat:no-repeat;
@@ -13,11 +13,11 @@ background:url(https://images.pexels.com/photos/9434908/pexels-photo-9434908.jpe
   background-position:center;  
 }
 .content{
-  display:flex;
-  flex-wrap:wrap;
+  display:flex; 
   justify-content:center; 
-  text-align:left;  
+  text-align:left;   
 }
+
 .desc{
  display: flex;
  flex-direction: column;
@@ -67,7 +67,7 @@ button{
 @media(max-width:768px){
  .loginslide{
     flex-direction:column;
-  }
+  }  
   .loginform{
     margin-top:40px;
   }
