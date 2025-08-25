@@ -29,7 +29,7 @@ background:url(https://images.pexels.com/photos/9434908/pexels-photo-9434908.jpe
   border-radius:10px;
 }
 .lbl{
-      margin-bottom: -10px !important;
+      margin-bottom: 5px !important;
 }
 form{
  display:flex;
