@@ -23,7 +23,7 @@ background:url(https://images.pexels.com/photos/9434908/pexels-photo-9434908.jpe
  display: flex;
  flex-direction: column;
   justify-content: flex-start;
-  background:rgb(0,0,0,0.3);
+  background:rgb(0 0 0 / 60%);
   padding:90px;
   color:#fff;
   border-radius:10px;
